@@ -106,7 +106,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Noel Alderman - [@vintageeurocars](https://twitter.com/twitter_handle) - noele952@gmail.com
 
-Project Link: [https://github.com/noele952/social-media-formatter](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/noele952/social-media-formatter](https://github.com/noele952/social-media-formatter)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
