@@ -1,0 +1,13 @@
+version = 0.1
+[default]
+[default.deploy]
+[default.deploy.parameters]
+stack_name = "evcnw-social-media-formatter"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-gyk3rwq7ohp6"
+s3_prefix = "evcnw-social-media-formatter"
+region = "us-east-1"
+confirm_changeset = true
+capabilities = "CAPABILITY_IAM"
+image_repositories = []
+parameter_overrides = "SourceBucketName=\"evcnw-social-media-upload\" DestinationBucketName=\"evcnw-social-media\""
+disable_rollback = true
