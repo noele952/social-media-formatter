@@ -53,8 +53,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Social media auto loader allows you to schedule post for Instagram, Facebook, and Twitter. It can handle posts including
-a picture, a gallery of pictures, or a video. 
+Social media formatter formats pictures and videos so that they can be posted on
+Twitter, Instagram, or Facebook.
 
 Drop your jpeg or mp4 file in the input bucket, and it will appear in the output bucket formatted
 to comply with the requirements of all three apis.
